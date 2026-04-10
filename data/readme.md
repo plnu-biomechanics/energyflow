@@ -6,7 +6,6 @@ import zipfile
 import os
 
 # --------------------------------------------------
-# Configuration (do NOT edit below)
 # These lines create a directory for this lab in your
 # Colab working directory.
 # --------------------------------------------------
